@@ -4,29 +4,20 @@
 
 <p align="center">I am currently a student at the CodeCrew Code School.</p>
 
-## 📅 Hobbies
-
-- Making random Web Apps
-- Solving programming problems on Leetcode
-- Playing games
-- Watching anime
-- Reading manga
-- Listening to music
-- etc...
-
  ## 💻 Languages
 
 - Javascript
 - HTML 
 - CSS
 - Java
+- React
+- Markdown
 
 ## 📚 Learning
 
 - React 
-- TypeScript
-- Material UI
-- Data Structures & Algorithms
+- Python
+- Mongo/Mongoose
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebssu)](https://github.com/anuraghazra/github-readme-stats)
 [![Calebssu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebssu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
