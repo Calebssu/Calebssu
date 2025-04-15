@@ -11,13 +11,14 @@
 - CSS
 - Java
 - React
-- Markdown
+- Mongo
+- TypeScript
+- C#
 
 ## 📚 Learning
 
-- React 
 - Python
-- Mongo/Mongoose
+- SQL
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebssu)](https://github.com/anuraghazra/github-readme-stats)
 [![Calebssu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebssu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
